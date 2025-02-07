@@ -1,4 +1,4 @@
-Python Pandas Tutorial Series - Learn with Aji
+Python Pandas Tutorial Series - [Learn with Aji](https://www.youtube.com/@LearnWithAji) 
 
 Welcome to the Python Pandas Tutorial Series! 🚀 This repository contains all the Jupyter notebooks and datasets used in the tutorial videos.
 
