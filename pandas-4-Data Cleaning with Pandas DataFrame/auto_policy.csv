@@ -1,0 +1,22 @@
+PolicyID,CustomerName,CarModel,CarYear,FuelType,StartDate,EndDate,PremiumAmount
+101,Arun Nair,          Maruti Suzuki Alto      ,2018,Petrol,2024-10-01,2025-10-01,450
+102,Biju Pillai,Honda City,2020,Diesel,2024-10-31,2025-10-31,500
+103,Ravi Kumar,Hyundai Creta,2021,Petrol,2024-11-30,2025-11-30,550
+104,Shalini Menon,Toyota Innova          ,2020,Diesel,2024-12-30,2025-12-30,600
+105,Rama Krishnan,Ford EcoSport,2019,Petrol,2025-01-29,2026-01-29,500
+106,Vijay Thomas,,2021,EV,2025-02-28,2026-02-28,450
+107,Anjali R,Suzuki Swift,2020,Petrol,2025-03-30,2026-03-30,550
+108,Suresh Prasad,Nissan Magnite,2018,Petrol,2025-04-29,2026-04-29,610.44
+109,Geethu Varghese,BMW X5,2022,Petrol,2025-05-29,2026-05-29,650
+110,Manoj K,Mercedes Benz A-Class,2021,,2025-06-28,2026-06-28,700
+116,Prakash S,Mitsubishi Outlander,,Diesel,2025-12-25,2026-12-25,650
+117,Sreelatha V,Volkswagen Polo,2021,Petrol,2026-01-24,2027-01-24,550
+118,Vishnu R,Toyota Rav4,2020,Diesel,2026-02-23,2027-02-23,500
+119,Maya G,Renault Kwid,2021,Petrol,2026-03-25,2027-03-25,550
+120,Jayesh S,Hyundai Verna,,Diesel,2026-04-24,2027-04-24,600
+121,Kavitha Menon,Chevrolet Beat,2022,Petrol,2026-05-24,2027-05-24,450
+122,Santhosh Pillai,Suzuki Baleno,2021,Petrol,2026-06-23,2027-06-23,
+123,Firoz A,Honda Jazz,2018,Petrol,2026-07-23,2027-07-23,600
+124,Ravi Shankar,Toyota Fortuner,2019,Diesel,2026-08-22,2027-08-22,700
+124,Ravi Shankar,Toyota Fortuner,2019,Diesel,2026-08-22,2027-08-22,700
+125,Neethu K,Skoda Octavia,,Petrol,2026-09-21,2027-09-21,550
