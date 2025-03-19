@@ -1,0 +1,3 @@
+Gender > MALE, FEMALE, OTHER
+Payment Frequency > MONTHNLY, QUARTERLY, HALF YEARLY, YEARLY
+Payment Mode > Credit Card, Net Banking, upi, Debit Card, Cash

@@ -1,0 +1,16 @@
+Policy ID ,Customer Name ,Gender ,Payment Frequency ,Payment Mode
+P001      ,Rahul Sharma  ,M      ,Monthly           ,Credit Card
+P002      ,Ananya Iyer   ,F      ,MTHLY             ,upi
+P003      ,Amit Kumar    ,male   ,Annual            ,Net Banking
+P004      ,Neha Verma    ,FEMALE ,Yearly            ,credit card
+P005      ,Vikram Singh  ,M      ,monthly           ,Debit card
+P006      ,Pooja Reddy   ,f      ,QUARTERLY         ,Cash Payment
+P007      ,Suresh Nair   ,Male   ,Half-Yearly       ,UPI transfer
+P008      ,Divya Menon   ,Female ,quarterly         ,CREDIT CARD
+P009      ,Arun Joshi    ,M      ,YEARLY            ,net banking
+P010      ,Kiran Das     ,Male   ,Annual            ,cash
+P011      ,Meera Pillai  ,F      ,Mthly             ,debit Card
+P012      ,Sachin Yadav  ,m      ,MONTHLY           ,UPI
+P013      ,Lavanya Rao   ,F      ,Half-Yearly       ,Net banking
+P014      ,Rohan Patil   ,M      ,yearly            ,Credit card Payment
+P015      ,Simran Kaur   ,Female ,Monthly           ,DEBIT card
